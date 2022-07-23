@@ -148,7 +148,7 @@ const Guess = (props) => {
           <tr>
             <th style={{ backgroundColor: genderColor }}> M/F </th>
             <th style={{ backgroundColor: weightClassColor }}> WC </th>
-            <th style={{ backgroundColor: rankColor }}> # </th>
+            <th style={{ backgroundColor: rankColor }}> Rank </th>
             <th style={{ backgroundColor: heightColor }}> HT </th>
             <th style={{ backgroundColor: reachColor }}> Reach </th>
             <th style={{ backgroundColor: ageColor }}> Age </th>

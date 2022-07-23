@@ -1,9 +1,18 @@
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+input {
+  font-family: 'Raleway', sans-serif;
+}
+
 button {
   background-color: white;
   border: none;
   text-align: left;
   font-size: 30px;
   cursor: pointer;
+  font-family: 'Raleway', sans-serif;
 }
 
 button:hover {
