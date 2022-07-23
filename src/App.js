@@ -215,7 +215,7 @@ function App() {
               <tr>
                 <th> M/F </th>
                 <th> WC </th>
-                <th> # </th>
+                <th> Rank </th>
                 <th> HT </th>
                 <th> Reach </th>
                 <th> Age </th>
@@ -260,7 +260,7 @@ function App() {
               <tr>
                 <th> M/F </th>
                 <th> WC </th>
-                <th> # </th>
+                <th> Rank </th>
                 <th> HT </th>
                 <th> Reach </th>
                 <th> Age </th>
