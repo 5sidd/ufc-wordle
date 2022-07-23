@@ -14,8 +14,7 @@ const weightClassAbbreviations = ['SW', 'FLY', 'BW', 'FW', 'LW', 'WW', 'MW', 'LH
 const randomFighter = allFighters[Math.floor(Math.random() * allFighters.length)];
 
 const InputSection = (props) => {
-  const { onChange, guesses, found, history } = props;
-  console.log(history);
+  const { onChange, name, guesses } = props;
 
   return (
     <div>
@@ -30,7 +29,7 @@ const InputSection = (props) => {
           borderColor: '#60CDEF',
           marginTop: '100px',
           fontSize: '25px'
-        }} onChange={onChange} placeholder={`Guess ${guesses + 1} of 5`} />
+        }} onChange={onChange} value={name} placeholder={`Guess ${guesses + 1} of 5`} />
       </form>
     </div>
   )
@@ -169,6 +168,7 @@ const Guess = (props) => {
 }
 
 function App() {
+  const [name, setName] = useState('');
   const [displayedFighters, setDisplayedFighters] = useState([]);
   const [guessesNumber, setGuessNumber] = useState(0);
   const [guesses, setGuesses] = useState([]);
@@ -176,22 +176,19 @@ function App() {
 
   function onChange(event) {
     console.log(event.target.value);
+    setName(event.target.value);
     if (event.target.value !== '') {
-      let filteredFighters = allFighters.filter(fighter => event.target.value.trim().toLowerCase() === fighter.name.trim().toLowerCase().substring(0, event.target.value.trim().length));
+      let filteredFighters = allFighters.filter(fighter => fighter.name.trim().toLowerCase().indexOf(event.target.value.trim().toLowerCase()) !== -1);
       if (filteredFighters.length > 5) {
-        filteredFighters = filteredFighters.splice(0, 5);
+        filteredFighters = filteredFighters.sort(function (a, b) {
+          return a.name.trim().toLowerCase().indexOf(event.target.value.trim().toLowerCase()) - b.name.trim().toLowerCase().indexOf(event.target.value.trim().toLowerCase());
+        }).splice(0, 5);
       }
-
-      console.log(filteredFighters);
       setDisplayedFighters(filteredFighters);
     }
     else {
       setDisplayedFighters([])
     }
-  }
-
-  if (guessesNumber > 5) {
-    console.log('Limit reached!!!!!');
   }
 
   if (found) {
@@ -257,7 +254,7 @@ function App() {
               <tr>
                 <td> {femaleFighters.find(f => f.id === randomFighter.id) ? 'F' : 'M'} </td>
                 <td> {weightClassAbbreviations[weightClasses.findIndex(w => w === randomFighter.weightClass)]} </td>
-                <td> {randomFighter.rank} </td>
+                <td> {randomFighter.rank === 0 ? 'C' : randomFighter.rank} </td>
                 <td> {randomFighter.height}" </td>
                 <td> {randomFighter.reach} </td>
                 <td> {randomFighter.age} </td>
@@ -267,7 +264,7 @@ function App() {
         </div>
 
         <h2 style={{ width: '50%', minWidth: '310px', maxWidth: '1500px', margin: 'auto', marginTop: '25px', textAlign: 'center' }}> Your guesses... </h2>
-        
+
         <div style={{ width: '50%', minWidth: '310px', maxWidth: '1500px', margin: 'auto' }}>
           {guesses.map((guess) => {
             return <Guess key={guess.id} fighter={guess} randomFighter={randomFighter} />
@@ -280,7 +277,7 @@ function App() {
   }
   return (
     <>
-      <InputSection onChange={onChange} guesses={guessesNumber} found={found} history={guesses} />
+      <InputSection onChange={onChange} name={name} guesses={guessesNumber} found={found} />
 
       <form style={{
         width: '50%',
@@ -292,11 +289,11 @@ function App() {
         {displayedFighters.map(fighter => {
           return <SelectionButton key={fighter.id} fighter={fighter} handleSelection={(event) => {
             event.preventDefault();
-            console.log(fighter);
-            console.log(randomFighter);
             fighter.id === randomFighter.id ? setFound(true) : setFound(false);
             setGuessNumber(guessesNumber + 1);
             setGuesses(guesses.concat([fighter]));
+            setName('');
+            setDisplayedFighters([]);
           }} />
         })}
       </form>
