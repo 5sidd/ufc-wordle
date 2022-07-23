@@ -1,70 +1,10 @@
-# Getting Started with Create React App
+# UFC Wordle!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a web application game inspired from the Wordle (https://www.nytimes.com/games/wordle/index.html) and Poeltl (https://poeltl.dunk.town/) online games. The game generates a random ranked UFC fighter that is hidden from the player and the goal is for the player to be able to guess this randomly generated fighter within 5 tries. 
 
-## Available Scripts
+Players can select fighters by searching for a fighter's name in the input box located at the top of the page and then selecting one of the fighters that appear in the dropdown menu. While the player searches for the right fighter, the game gives clues that helps point the player in the right direction. Every time the player makes a guess, the information/attributes of the guessed fighter is displayed on the screen. Fighter information includes the fighter's name, gender, weight class, rank number, height, reach, and age. If one of the guessed fighter's attributes matches with the same attribute of the mystery fighter, then that attribute section will be highlighted green. For example, if the fighter I guessed/selected is 30 years old and the mystery fighter is also 30 years old, then the age section will be highlighted green when the guessed fighter's information is displayed on the screen. In addition to this, the weight class, rank number, height, reach, and age sections will be highlighted yellow if one of the guessed fighter's attributes does not match up with the same attribute of the mystery fighter, but the value is only slightly off. For the weight class attribute, if the guessed fighter's weight class is only one weight class off from the mystery fighter's weight class, then the weight class section will be highlighted yellow. For example, if my guessed fighter was a Light Heavyweight but the mystery fighter was a Heavyweight, then the weight class section will be highlighted yellow when displaying the guessed fighter's information. Similarly, for the rank number, height, reach, and age sections, if the guessed fighter's attribute value for one of these sections is only off by 2, then that specific attribute section will be highlighted yellow. For example, if the reach of my guessed fighter was 70 inches but the reach of the mystery fighter was 71.5 inches, then the reach section will be highlighted yellow. Lastly, the rank weight class, rank number, height, reach, and age attribute sections have either an up or down pointing arrow depending on whether a specific attribute value of the mystery person is greater/higher or smaller than that specific attribute value of the guessed fighter. The arrow will always point in the direction of the correct value. For example, if my guessed fighter was a Light Heavyweight and the mystery fighter was a Heavyweight, then the weight class section will have an arrow pointing up. Another example is if the height of my guessed fighter is 70 inches and the height of the mystery fighter is 69 inches, then the height section will have an arrow pointing down.
 
-In the project directory, you can run:
+Once the player has exhausted all options or was able to successfully guess the mystery fighter within 5 tries, then the input box will disappear from the page and will be replaced by a message that informs the player if the player was actually successful in guessing the mystery fighter within 5 tries or not. Lastly, the information of the mystery fighter will be displayed at the top of the page and the history of the player's guesses will be displayed right under the revealed information of the mystery fighter.
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This game can be demo'd by following this link here: https://magnificent-arithmetic-b380f8.netlify.app/
+:-)
