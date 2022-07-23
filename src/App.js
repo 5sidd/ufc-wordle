@@ -78,7 +78,7 @@ const Guess = (props) => {
 
   let rankColor;
   let rankDifference = rank - randomFighter.rank;
-  Math.abs(rankDifference) === 2 || Math.abs(rankDifference) === 1 ? rankColor = '#DAEA48' : rankColor = '';
+  Math.abs(rankDifference) <= 2 || Math.abs(rankDifference) >= 0 ? rankColor = '#DAEA48' : rankColor = '';
 
   let rankText;
   if (rankDifference === 0) {
@@ -94,7 +94,7 @@ const Guess = (props) => {
 
   let heightColor;
   let heightDifference = height - randomFighter.height;
-  Math.abs(heightDifference) === 2 || Math.abs(heightDifference) === 1 ? heightColor = '#DAEA48' : heightColor = '';
+  Math.abs(heightDifference) <= 2 || Math.abs(heightDifference) > 0 ? heightColor = '#DAEA48' : heightColor = '';
 
   let heightText;
   if (heightDifference === 0) {
@@ -110,7 +110,7 @@ const Guess = (props) => {
 
   let reachColor;
   let reachDifference = reach - randomFighter.reach;
-  Math.abs(reachDifference) === 2 || Math.abs(reachDifference) === 1 ? reachColor = '#DAEA48' : reachColor = '';
+  Math.abs(reachDifference) <= 2 || Math.abs(reachDifference) > 0 ? reachColor = '#DAEA48' : reachColor = '';
 
   let reachText;
   if (reachDifference === 0) {
@@ -126,7 +126,7 @@ const Guess = (props) => {
 
   let ageColor;
   let ageDifference = age - randomFighter.age;
-  Math.abs(ageDifference) === 2 || Math.abs(ageDifference) === 1 ? ageColor = '#DAEA48' : ageColor = '';
+  Math.abs(ageDifference) <= 2 || Math.abs(ageDifference) > 0 ? ageColor = '#DAEA48' : ageColor = '';
 
   let ageText;
   if (ageDifference === 0) {
