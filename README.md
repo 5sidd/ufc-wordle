@@ -6,5 +6,6 @@ Players can select fighters by searching for a fighter's name in the input box l
 
 Once the player has exhausted all guesses or was able to successfully guess the mystery fighter within 5 tries, then the input box will disappear from the page and will be replaced by a message that informs the player if the player was successful in guessing the mystery fighter within 5 tries or not. Furthermore, the information of the mystery fighter will be displayed at the top of the page and the history of the player's guesses will be displayed right under the revealed information of the mystery fighter. Lastly, the "Play Again" button will be located at the bottom of the page which the player can click if the player wishes to play the game again .
 
-This game can be demo'd by following this link here: https://magnificent-arithmetic-b380f8.netlify.app/
-:-)
+The Python file located in the src folder of this project is used to scrape all the athlete information from the UFC's website. Since the UFC updates their athlete and rankings information on a weekly basis, the Python file will also be run every week in order to update the information of the fighters accordingly and store this information within the female-fighters.json and male-fighters.json files, also located within the src folder.
+
+This game can be demo'd by following this link here: https://magnificent-arithmetic-b380f8.netlify.app/ :-)
