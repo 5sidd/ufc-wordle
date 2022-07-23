@@ -8,4 +8,6 @@ Once the player has exhausted all guesses or was able to successfully guess the 
 
 The Python file located in the src folder of this project is used to scrape all the athlete information from the UFC's website. Since the UFC updates their athlete and rankings information on a weekly basis, the Python file will also be run every week in order to update the information of the fighters accordingly and store this information within the female-fighters.json and male-fighters.json files, also located within the src folder.
 
+Note: For rank number, the smaller the rank number is, the "higher" the fighter is ranked in the division. Therefore, if a guessed fighter was ranked #5 and the mystery fighter was ranked #1, then the arrow in the rank number section would be pointing up, since the mystery fighter is ranked "higher" than the guessed fighter in the division.
+
 This game can be demo'd by following this link here: https://venerable-biscotti-8c2191.netlify.app/ :-)
