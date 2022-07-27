@@ -27,7 +27,7 @@ const InputSection = (props) => {
           maxWidth: '1500px',
           height: '50px',
           borderColor: '#60CDEF',
-          marginTop: '100px',
+          marginTop: '50px',
           fontSize: '25px'
         }} onChange={onChange} value={name} placeholder={`Guess ${guesses + 1} of 5`} />
       </form>
@@ -167,6 +167,37 @@ const Guess = (props) => {
   )
 }
 
+const RulesList = () => {
+  return (
+    <div>
+      <ul style={{ fontSize: '15px' }}>
+        <li> The game chooses a random ranked UFC fighter and you have 5 tries to guess the mystery fighter correctly </li>
+        <li> Upon every made guess, the guessed fighter's gender (M/F), weight class (WC), rank, height (HT), reach, and age are displayed </li>
+        <li> If one of the guessed fighter's attributes matches with the same attribute of the mystery fighter, then that attribute section will be highlighted green </li>
+        <li> A yellow highlight in the weight class section indicates that the mystery fighter's weight class is 1 weight class above or below the guessed fighter's weight class </li>
+        <li> An up arrow displayed in the weight class section indicates that the mystery fighter's weight class is higher than guessed fighter's weight class, and a down arrow indicates the exact opposite </li>
+        <li> A yellow highlight in the rank section indicates that the mystery fighter's rank within 2 spots of the guessed fighter's rank </li>
+        <li> An up arrow displayed in the rank section indicates that the mystery fighter's rank is higher than the guessed fighter's rank, and a down arrow indicates the exact opposite </li>
+        <li> A yellow highlight in the height and/or reach sections indicates that the mystery fighter's height and/or reach is within 2 inches of the mystery fighter's height and/or reach </li>
+        <li> An up arrow displayed in the height and/or reach sections indicates that the height and/or reach of the mystery fighter is higher than the height and/or reach of the guessed fighter, and a down indicates the exact opposite </li>
+        <li> A yellow highlight in the age section indicates that the age of the mystery fighter is within 2 years of the age of the guessed fighter </li>
+        <li> An up arrow displayed in the age section indicates that the mystery fighter is older than the guessed fighter, and a down arrow indicates the exact opposite </li>
+      </ul>
+    </div>
+  )
+}
+
+const Rules = () => {
+  const [showRules, setShowRules] = useState(false);
+
+  return (
+    <div style={{ width: '50%', minWidth: '310px', maxWidth: '1500px', margin: 'auto', marginTop: '25px' }}>
+      <button style={{ fontSize: '20px', display: 'block', margin: 'auto', textAlign: 'center' }} onClick={() => setShowRules(!showRules)}> {showRules ? 'Close' : 'Show Rules'} </button>
+      {showRules ? <RulesList /> : null}
+    </div>
+  )
+}
+
 function App() {
   const [name, setName] = useState('');
   const [displayedFighters, setDisplayedFighters] = useState([]);
@@ -183,7 +214,7 @@ function App() {
         filteredFighters = filteredFighters.sort(function (a, b) {
           let term1 = a.name.trim().toLowerCase().indexOf(event.target.value.trim().toLowerCase());
           let term2 = b.name.trim().toLowerCase().indexOf(event.target.value.trim().toLowerCase());
-          return  term1 - term2;
+          return term1 - term2;
         }).splice(0, 5);
       }
       setDisplayedFighters(filteredFighters);
@@ -203,10 +234,11 @@ function App() {
     randomFighter = allFighters[Math.floor(Math.random() * allFighters.length)];
   }
 
-  if (found) {
+  
+  if (found || guessesNumber === 5) {
     return (
       <>
-        <h2 style={{ width: '50%', minWidth: '310px', maxWidth: '1500px', margin: 'auto', marginTop: '25px', textAlign: 'center' }}> You guessed correctly! </h2>
+        <h2 style={{ width: '50%', minWidth: '310px', maxWidth: '1500px', margin: 'auto', marginTop: '25px', textAlign: 'center' }}> {found ? 'You guessed correctly!' : 'You used all your guesses!'} </h2>
 
         <div>
           <h4 style={{ width: '50%', minWidth: '310px', maxWidth: '1500px', margin: 'auto', marginTop: '30px', textAlign: 'center' }}> {randomFighter.name} </h4>
@@ -247,52 +279,9 @@ function App() {
     )
   }
 
-  if (guessesNumber === 5) {
-    return (
-      <>
-        <h2 style={{ width: '50%', minWidth: '310px', maxWidth: '1500px', margin: 'auto', marginTop: '25px', textAlign: 'center' }}> You used all your guesses! </h2>
-        <p style={{ width: '50%', minWidth: '310px', maxWidth: '1500px', margin: 'auto', marginTop: '15px', textAlign: 'center' }}> Correct fighter was... </p>
-
-        <div>
-          <h4 style={{ width: '50%', minWidth: '310px', maxWidth: '1500px', margin: 'auto', marginTop: '30px', textAlign: 'center' }}> {randomFighter.name} </h4>
-          <table style={{ width: '50%', minWidth: '310px', maxWidth: '1500px', margin: 'auto', marginTop: '20px' }}>
-            <tbody>
-              <tr>
-                <th> M/F </th>
-                <th> WC </th>
-                <th> Rank </th>
-                <th> HT </th>
-                <th> Reach </th>
-                <th> Age </th>
-              </tr>
-              <tr>
-                <td> {femaleFighters.find(f => f.id === randomFighter.id) ? 'F' : 'M'} </td>
-                <td> {weightClassAbbreviations[weightClasses.findIndex(w => w === randomFighter.weightClass)]} </td>
-                <td> {randomFighter.rank === 0 ? 'C' : randomFighter.rank} </td>
-                <td> {randomFighter.height}" </td>
-                <td> {randomFighter.reach} </td>
-                <td> {randomFighter.age} </td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-
-        <h2 style={{ width: '50%', minWidth: '310px', maxWidth: '1500px', margin: 'auto', marginTop: '25px', textAlign: 'center' }}> Your guesses... </h2>
-
-        <div style={{ width: '50%', minWidth: '310px', maxWidth: '1500px', margin: 'auto' }}>
-          {guesses.map((guess) => {
-            return <Guess key={guess.id} fighter={guess} randomFighter={randomFighter} />
-          })}
-        </div>
-
-        <button style={{ display: 'block', margin: 'auto', marginTop: '50px' }} onClick={resetGame}> Play Again! </button>
-
-        <div style={{ height: '70px' }}></div>
-      </>
-    )
-  }
   return (
     <>
+      <Rules />
       <InputSection onChange={onChange} name={name} guesses={guessesNumber} found={found} />
 
       <form style={{
@@ -300,7 +289,7 @@ function App() {
         minWidth: '310px',
         maxWidth: '1500px',
         margin: 'auto',
-        marginTop: '30px',
+        marginTop: '10px',
       }}>
         {displayedFighters.map(fighter => {
           return <SelectionButton key={fighter.id} fighter={fighter} handleSelection={(event) => {
