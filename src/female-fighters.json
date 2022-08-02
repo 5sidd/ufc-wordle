@@ -81,16 +81,6 @@
     },
     {
         "id": 136,
-        "name": "Nina Nunes",
-        "weightClass": "Strawweight",
-        "rank": 8,
-        "age": 36,
-        "height": 65.0,
-        "reach": 64.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/5d2baa3d-591b-4d49-b2fa-49a46db97993%252FNUNES_NINA_L_07-09.png?itok=eSrhW0zO"
-    },
-    {
-        "id": 137,
         "name": "Amanda Lemos",
         "weightClass": "Strawweight",
         "rank": 8,
@@ -98,6 +88,16 @@
         "height": 64.0,
         "reach": 65.0,
         "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-04/8d2e2ccd-45be-44c4-a29f-14f59d6c5ed2%252FLEMOS_AMANDA_L_04-23.png?itok=lMJKWFYy"
+    },
+    {
+        "id": 137,
+        "name": "Nina Nunes",
+        "weightClass": "Strawweight",
+        "rank": 9,
+        "age": 36,
+        "height": 65.0,
+        "reach": 64.0,
+        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/5d2baa3d-591b-4d49-b2fa-49a46db97993%252FNUNES_NINA_L_07-09.png?itok=eSrhW0zO"
     },
     {
         "id": 138,
@@ -311,33 +311,33 @@
     },
     {
         "id": 159,
-        "name": "Amanda Ribas",
+        "name": "Molly McCann",
         "weightClass": "Flyweight",
         "rank": 15,
-        "age": 28,
+        "age": 32,
         "height": 64.0,
-        "reach": 66.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-05/67290%252Fprofile-galery%252Ffullbodyleft-picture%252FRIBAS_AMANDA_L_05-08.png?VersionId=null&itok=NkCWGw54"
+        "reach": 62.0,
+        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/MCCANN_MOLLY_L_07-23.png?itok=xRDxL_nO"
     },
     {
         "id": 160,
-        "name": "Julianna Pe\u00f1a",
-        "weightClass": "Bantamweight",
-        "rank": 0,
-        "age": 32,
-        "height": 66.0,
-        "reach": 69.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-03/57238c93-0226-4f46-9e99-cfe86c8094c9%252FPENA_JULIANNA_L_07-13.png?itok=6CIRK0m-"
-    },
-    {
-        "id": 161,
         "name": "Amanda Nunes",
         "weightClass": "Bantamweight",
-        "rank": 1,
+        "rank": 0,
         "age": 34,
         "height": 68.0,
         "reach": 69.0,
         "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-12/0bc89f79-fead-4048-98a4-daa3e10d1d04%252FNUNES_AMANDA_L_BELT_12-11.png?itok=n_Qiatj-"
+    },
+    {
+        "id": 161,
+        "name": "Julianna Pe\u00f1a",
+        "weightClass": "Bantamweight",
+        "rank": 1,
+        "age": 32,
+        "height": 66.0,
+        "reach": 69.0,
+        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/PENA_JULIANNA_L_BELT_07-30.png?itok=_ZSPGOQW"
     },
     {
         "id": 162,
@@ -431,33 +431,33 @@
     },
     {
         "id": 171,
-        "name": "Karol Rosa",
+        "name": "Miesha Tate",
         "weightClass": "Bantamweight",
         "rank": 11,
+        "age": 35,
+        "height": 66.0,
+        "reach": 65.0,
+        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/TATE_MIESHA_L_07-17.png?itok=l3ajmGkB"
+    },
+    {
+        "id": 172,
+        "name": "Karol Rosa",
+        "weightClass": "Bantamweight",
+        "rank": 12,
         "age": 27,
         "height": 65.0,
         "reach": 67.5,
         "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-10/68454%252Fprofile-galery%252Ffullbodyleft-picture%252FROSA_KAROL_L_10-02.png?itok=D8BnZuS9"
     },
     {
-        "id": 172,
+        "id": 173,
         "name": "Lina Lansberg",
         "weightClass": "Bantamweight",
-        "rank": 12,
+        "rank": 13,
         "age": 40,
         "height": 67.0,
         "reach": 65.5,
         "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-04/LANSBERG_LINA_L_04-16.png?itok=S0Xar2Bg"
-    },
-    {
-        "id": 173,
-        "name": "Miesha Tate",
-        "weightClass": "Bantamweight",
-        "rank": 13,
-        "age": 35,
-        "height": 66.0,
-        "reach": 65.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/TATE_MIESHA_L_07-17.png?itok=l3ajmGkB"
     },
     {
         "id": 174,

@@ -21,33 +21,33 @@
     },
     {
         "id": 3,
-        "name": "Kai Kara France",
+        "name": "Alexandre Pantoja",
         "weightClass": "Flyweight",
         "rank": 2,
+        "age": 32,
+        "height": 65.0,
+        "reach": 67.0,
+        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-08/67251%252Fprofile-galery%252Ffullbodyleft-picture%252FPANTOJA_ALEXANDRE_L_08-21.png?itok=n7c5S4fF"
+    },
+    {
+        "id": 4,
+        "name": "Kai Kara France",
+        "weightClass": "Flyweight",
+        "rank": 3,
         "age": 29,
         "height": 64.0,
         "reach": 69.0,
         "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-03/b50842b9-4daf-4430-b5b9-873506c2501c%252FKARA-FRANCE_KAI_L_12-11.png?itok=OCqPaYms"
     },
     {
-        "id": 4,
+        "id": 5,
         "name": "Askar Askarov",
         "weightClass": "Flyweight",
-        "rank": 3,
+        "rank": 4,
         "age": 29,
         "height": 66.0,
         "reach": 67.0,
         "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-03/64d4b199-f8a4-42dd-8e20-fb92da0368b4%252FASKAROV_ASKAR_L_03-26.png?itok=xJGujLhw"
-    },
-    {
-        "id": 5,
-        "name": "Alexandre Pantoja",
-        "weightClass": "Flyweight",
-        "rank": 4,
-        "age": 32,
-        "height": 65.0,
-        "reach": 67.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-08/67251%252Fprofile-galery%252Ffullbodyleft-picture%252FPANTOJA_ALEXANDRE_L_08-21.png?itok=n7c5S4fF"
     },
     {
         "id": 6,
@@ -841,16 +841,6 @@
     },
     {
         "id": 85,
-        "name": "Paulo Costa",
-        "weightClass": "Middleweight",
-        "rank": 5,
-        "age": 31,
-        "height": 73.0,
-        "reach": 72.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-10/68993%252Fprofile-galery%252Ffullbodyleft-picture%252FCOSTA_PAULO_L_10-23.png?itok=f4EiaU1I"
-    },
-    {
-        "id": 86,
         "name": "Alex Pereira",
         "weightClass": "Middleweight",
         "rank": 5,
@@ -858,6 +848,16 @@
         "height": 76.0,
         "reach": 79.0,
         "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/55fbce59-2dd7-4210-8501-b88e0c948d80%252FPEREIRA_ALEX_L_07-02.png?itok=K1jPXD2v"
+    },
+    {
+        "id": 86,
+        "name": "Paulo Costa",
+        "weightClass": "Middleweight",
+        "rank": 6,
+        "age": 31,
+        "height": 73.0,
+        "reach": 72.0,
+        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-10/68993%252Fprofile-galery%252Ffullbodyleft-picture%252FCOSTA_PAULO_L_10-23.png?itok=f4EiaU1I"
     },
     {
         "id": 87,
@@ -981,23 +981,23 @@
     },
     {
         "id": 99,
-        "name": "Aleksandar Raki\u0107",
-        "weightClass": "Light Heavyweight",
-        "rank": 3,
-        "age": 30,
-        "height": 76.0,
-        "reach": 78.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/RAKIC_ALEKSANDAR_L_05-14.png?itok=7hzDVZpj"
-    },
-    {
-        "id": 100,
         "name": "Magomed Ankalaev",
         "weightClass": "Light Heavyweight",
-        "rank": 4,
+        "rank": 3,
         "age": 30,
         "height": 75.0,
         "reach": 75.0,
         "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-03/8d73a67c-93a8-47bb-a433-6b752739b666%252FANKALAEV_MAGOMED_L_03-12.png?itok=hJWQCnh4"
+    },
+    {
+        "id": 100,
+        "name": "Aleksandar Raki\u0107",
+        "weightClass": "Light Heavyweight",
+        "rank": 4,
+        "age": 30,
+        "height": 76.0,
+        "reach": 78.0,
+        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/RAKIC_ALEKSANDAR_L_05-14.png?itok=7hzDVZpj"
     },
     {
         "id": 101,
@@ -1031,23 +1031,23 @@
     },
     {
         "id": 104,
-        "name": "Paul Craig",
-        "weightClass": "Light Heavyweight",
-        "rank": 8,
-        "age": 34,
-        "height": 75.5,
-        "reach": 76.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/CRAIG_PAUL_L_07-23.png?itok=MSzxZQCO"
-    },
-    {
-        "id": 105,
         "name": "Volkan Oezdemir",
         "weightClass": "Light Heavyweight",
-        "rank": 9,
+        "rank": 8,
         "age": 32,
         "height": 74.0,
         "reach": 75.0,
         "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/OEZDEMIR_VOLKAN_L_07-23.png?itok=f09v5J2c"
+    },
+    {
+        "id": 105,
+        "name": "Paul Craig",
+        "weightClass": "Light Heavyweight",
+        "rank": 9,
+        "age": 34,
+        "height": 75.5,
+        "reach": 76.0,
+        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/CRAIG_PAUL_L_07-23.png?itok=MSzxZQCO"
     },
     {
         "id": 106,
@@ -1161,13 +1161,13 @@
     },
     {
         "id": 117,
-        "name": "Derrick Lewis",
+        "name": "Sergei Pavlovich",
         "weightClass": "Heavyweight",
         "rank": 5,
-        "age": 37,
+        "age": 30,
         "height": 75.0,
-        "reach": 79.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/LEWIS_DERRICK_L_07-30.png?itok=E3H-vpT-"
+        "reach": 84.0,
+        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/PAVLOVICH_SERGEI_L_03-19.png?itok=2jGAAbg2"
     },
     {
         "id": 118,
@@ -1181,53 +1181,53 @@
     },
     {
         "id": 119,
-        "name": "Alexander Volkov",
+        "name": "Derrick Lewis",
         "weightClass": "Heavyweight",
         "rank": 7,
+        "age": 37,
+        "height": 75.0,
+        "reach": 79.0,
+        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/LEWIS_DERRICK_L_07-30.png?itok=E3H-vpT-"
+    },
+    {
+        "id": 120,
+        "name": "Alexander Volkov",
+        "weightClass": "Heavyweight",
+        "rank": 8,
         "age": 33,
         "height": 79.0,
         "reach": 80.0,
         "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/9e4d4db5-d9dc-475b-893c-f2298d8a0920%252FVOLKOV_ALEXANDER_L_06-04.png?itok=D1ngUh-k"
     },
     {
-        "id": 120,
+        "id": 121,
         "name": "Jairzinho Rozenstruik",
         "weightClass": "Heavyweight",
-        "rank": 8,
+        "rank": 9,
         "age": 34,
         "height": 74.0,
         "reach": 78.0,
         "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/1eb95f06-585c-4565-ad55-8a0ca3d84ac8%252FROZENSTRUIK_JAIRZINHO_L_06-04.png?itok=IJW2dU39"
     },
     {
-        "id": 121,
+        "id": 122,
         "name": "Chris Daukaus",
         "weightClass": "Heavyweight",
-        "rank": 9,
+        "rank": 10,
         "age": 32,
         "height": 75.0,
         "reach": 76.0,
         "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-11/DAUKAUS_CHRIS_L_09-25.png?itok=34hCc54A"
     },
     {
-        "id": 122,
+        "id": 123,
         "name": "Marcin Tybura",
         "weightClass": "Heavyweight",
-        "rank": 10,
+        "rank": 11,
         "age": 36,
         "height": 75.0,
         "reach": 78.0,
         "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-06/68680%252Fprofile-galery%252Ffullbodyleft-picture%252FTYBURA_MARCIN_L_06-05.png?VersionId=null&itok=yxWH0Oqu"
-    },
-    {
-        "id": 123,
-        "name": "Sergei Pavlovich",
-        "weightClass": "Heavyweight",
-        "rank": 11,
-        "age": 30,
-        "height": 75.0,
-        "reach": 84.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/PAVLOVICH_SERGEI_L_03-19.png?itok=2jGAAbg2"
     },
     {
         "id": 124,
