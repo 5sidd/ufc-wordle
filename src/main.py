@@ -91,13 +91,10 @@ def get_attributes(link):
         if (data.find(class_='c-bio__label').get_text() == 'Reach'):
             reach = float(data.find(class_='c-bio__text').get_text())
 
-    athlete_image = soup2.find(class_='c-bio__image').find('img')['src']
-
     atttributes_object = {
         "age": age,
         "height": height,
-        "reach": reach,
-        "image": athlete_image
+        "reach": reach
     }
 
     return atttributes_object
@@ -128,8 +125,7 @@ def update_all():
                     "rank": f['rank'],
                     "age": bio_data['age'],
                     "height": bio_data['height'],
-                    "reach": bio_data['reach'],
-                    "image": bio_data['image']
+                    "reach": bio_data['reach']
                 }
                 female_fighter_string = json.dumps(female_fighter)
                 loaded_female_fighter = json.loads(female_fighter_string)
@@ -145,8 +141,7 @@ def update_all():
                     "rank": f['rank'],
                     "age": bio_data['age'],
                     "height": bio_data['height'],
-                    "reach": bio_data['reach'],
-                    "image": bio_data['image']
+                    "reach": bio_data['reach']
                 }
                 male_fighter_string = json.dumps(male_fighter)
                 loaded_male_fighter = json.loads(male_fighter_string)
