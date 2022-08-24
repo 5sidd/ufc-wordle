@@ -6,8 +6,7 @@
         "rank": 0,
         "age": 34,
         "height": 65.0,
-        "reach": 68.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-04/67787_profile-galery_fullbodyleft-picture_FIGUEIREDO_DEIVESON_L_BELT_11-21.png?VersionId=null&itok=E3j7xiB1"
+        "reach": 68.0
     },
     {
         "id": 2,
@@ -16,8 +15,7 @@
         "rank": 1,
         "age": 28,
         "height": 67.0,
-        "reach": 70.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-01/MORENO_BRANDON_L_BELT_01-22.png?itok=njar4_OX"
+        "reach": 70.0
     },
     {
         "id": 3,
@@ -26,8 +24,7 @@
         "rank": 2,
         "age": 32,
         "height": 65.0,
-        "reach": 67.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-08/67251%252Fprofile-galery%252Ffullbodyleft-picture%252FPANTOJA_ALEXANDRE_L_08-21.png?itok=n7c5S4fF"
+        "reach": 67.0
     },
     {
         "id": 4,
@@ -36,8 +33,7 @@
         "rank": 3,
         "age": 29,
         "height": 64.0,
-        "reach": 69.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-03/b50842b9-4daf-4430-b5b9-873506c2501c%252FKARA-FRANCE_KAI_L_12-11.png?itok=OCqPaYms"
+        "reach": 69.0
     },
     {
         "id": 5,
@@ -46,8 +42,7 @@
         "rank": 4,
         "age": 29,
         "height": 66.0,
-        "reach": 67.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-03/64d4b199-f8a4-42dd-8e20-fb92da0368b4%252FASKAROV_ASKAR_L_03-26.png?itok=xJGujLhw"
+        "reach": 67.0
     },
     {
         "id": 6,
@@ -56,8 +51,7 @@
         "rank": 5,
         "age": 29,
         "height": 69.0,
-        "reach": 68.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-08/71607%252Fprofile-galery%252Ffullbodyleft-picture%252FROYVAL_BRANDON_L_08-21.png?itok=HnwiqTrZ"
+        "reach": 68.0
     },
     {
         "id": 7,
@@ -66,8 +60,7 @@
         "rank": 6,
         "age": 30,
         "height": 66.0,
-        "reach": 65.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-12/ddba18e7-dbe8-4d2b-85d0-72f18c6efc3b%252FPEREZ_ALEX_L_12-11.png?itok=ZLpqrynU"
+        "reach": 65.5
     },
     {
         "id": 8,
@@ -76,8 +69,7 @@
         "rank": 7,
         "age": 29,
         "height": 66.0,
-        "reach": 66.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-10/68748%252Fprofile-galery%252Ffullbodyleft-picture%252FNICOLAU_MATHEUS_L_10-09.png?itok=8UG8YwVt"
+        "reach": 66.0
     },
     {
         "id": 9,
@@ -86,8 +78,7 @@
         "rank": 8,
         "age": 32,
         "height": 68.0,
-        "reach": 70.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-03/55dbfdbf-c5c1-479e-b681-44dbcae3e494%252FSCHNELL_MATT_L_02-12.png?itok=qrZx7i5_"
+        "reach": 70.0
     },
     {
         "id": 10,
@@ -96,48 +87,43 @@
         "rank": 9,
         "age": 29,
         "height": 65.0,
-        "reach": 68.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-05/71598%252Fprofile-galery%252Ffullbodyleft-picture%252FDVORAK_DAVID_L_05-22.png?VersionId=null&itok=nazhdjlD"
+        "reach": 68.5
     },
     {
         "id": 11,
-        "name": "Tim Elliott",
+        "name": "Amir Albazi",
         "weightClass": "Flyweight",
         "rank": 10,
-        "age": 35,
-        "height": 67.0,
-        "reach": 66.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-10/69388%252Fprofile-galery%252Ffullbodyleft-picture%252FELLIOTT_TIM_L_10-09.png?itok=dUPOS4eZ"
+        "age": 28,
+        "height": 65.0,
+        "reach": 68.0
     },
     {
         "id": 12,
-        "name": "Amir Albazi",
+        "name": "Tim Elliott",
         "weightClass": "Flyweight",
         "rank": 11,
-        "age": 28,
-        "height": 65.0,
-        "reach": 68.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2020-07/ALBAZI_AMIR_L_07-18.png?VersionId=_JyINXdcaPVUrwOCSpldmn8VADQ2VPfI&itok=2kOIDyd3"
+        "age": 35,
+        "height": 67.0,
+        "reach": 66.0
     },
     {
         "id": 13,
-        "name": "Sumudaerji",
+        "name": "Manel Kape",
         "weightClass": "Flyweight",
         "rank": 12,
-        "age": 26,
-        "height": 68.0,
-        "reach": 72.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/SUMUDAERJI_L_04-23.png?itok=cE7gc2J5"
+        "age": 28,
+        "height": 65.0,
+        "reach": 68.0
     },
     {
         "id": 14,
-        "name": "Manel Kape",
+        "name": "Sumudaerji",
         "weightClass": "Flyweight",
         "rank": 13,
-        "age": 28,
-        "height": 65.0,
-        "reach": 68.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/3db4f260-1bc8-4496-b77f-51e6a5c30329%252FKAPE_MANEL_L_06-11.png?itok=_8ezdy0K"
+        "age": 26,
+        "height": 68.0,
+        "reach": 72.0
     },
     {
         "id": 15,
@@ -146,8 +132,7 @@
         "rank": 14,
         "age": 25,
         "height": 66.5,
-        "reach": 69.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-08/71609%252Fprofile-galery%252Ffullbodyleft-picture%252FMOLINA_JEFF_L_04-24.png?itok=b8rGAbaH"
+        "reach": 69.0
     },
     {
         "id": 16,
@@ -156,18 +141,16 @@
         "rank": 15,
         "age": 30,
         "height": 67.0,
-        "reach": 70.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-10/71626%252Fprofile-galery%252Ffullbodyleft-picture%252FULANBEKOV_TAGIR_L_10-30.png?itok=Cc8W43OP"
+        "reach": 70.0
     },
     {
         "id": 17,
         "name": "Aljamain Sterling",
         "weightClass": "Bantamweight",
         "rank": 0,
-        "age": 32,
+        "age": 33,
         "height": 67.0,
-        "reach": 71.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-04/STERLING_ALJAMAIN_L_BELT_04-09.png?itok=9jHYZcT2"
+        "reach": 71.0
     },
     {
         "id": 18,
@@ -176,8 +159,7 @@
         "rank": 1,
         "age": 29,
         "height": 67.5,
-        "reach": 67.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-10/69008%252Fprofile-galery%252Ffullbodyleft-picture%252FYAN_PETR_L_10-30.png?itok=El2YOHNK"
+        "reach": 67.0
     },
     {
         "id": 19,
@@ -186,28 +168,25 @@
         "rank": 2,
         "age": 36,
         "height": 66.5,
-        "reach": 67.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/DILLASHAW_TJ_L_07-24.png?itok=iWWWrBlv"
+        "reach": 67.0
     },
     {
         "id": 20,
-        "name": "Jos\u00e9 Aldo",
+        "name": "Merab Dvalishvili",
         "weightClass": "Bantamweight",
         "rank": 3,
-        "age": 35,
-        "height": 67.0,
-        "reach": 70.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-03/d44b164d-b5ae-4594-959e-12a7d6343803%252FALDO_JOSE_L_12-04.png?itok=Q4ck0MXP"
+        "age": 31,
+        "height": 66.0,
+        "reach": 68.0
     },
     {
         "id": 21,
         "name": "Cory Sandhagen",
         "weightClass": "Bantamweight",
         "rank": 4,
-        "age": 29,
+        "age": 30,
         "height": 71.0,
-        "reach": 70.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/67675%252Fprofile-galery%252Ffullbodyleft-picture%252FSANDHAGEN_CORY_L_07-24.png?itok=glHelPuB"
+        "reach": 70.0
     },
     {
         "id": 22,
@@ -216,18 +195,16 @@
         "rank": 5,
         "age": 29,
         "height": 68.0,
-        "reach": 70.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-06/68723%252Fprofile-galery%252Ffullbodyleft-picture%252FVERA_MARLON_L_06-19.png?VersionId=null&itok=w3lN7DM4"
+        "reach": 70.5
     },
     {
         "id": 23,
-        "name": "Merab Dvalishvili",
+        "name": "Jos\u00e9 Aldo",
         "weightClass": "Bantamweight",
         "rank": 6,
-        "age": 31,
-        "height": 66.0,
-        "reach": 68.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-04/69653%252Fprofile-galery%252Ffullbodyleft-picture%252FDVALISHVILI_MERAB_L_05-01.png?VersionId=null&itok=4h0KKhBt"
+        "age": 35,
+        "height": 67.0,
+        "reach": 70.0
     },
     {
         "id": 24,
@@ -236,8 +213,7 @@
         "rank": 7,
         "age": 34,
         "height": 68.0,
-        "reach": 71.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-04/96838c46-0a5d-403d-b53d-46178b380f21%252FFONT_ROB_L_04-30.png?itok=hx0krZJK"
+        "reach": 71.5
     },
     {
         "id": 25,
@@ -246,8 +222,7 @@
         "rank": 8,
         "age": 37,
         "height": 68.0,
-        "reach": 68.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-03/7a064993-dfca-4c8e-aca4-8268fc6e711b%252FCRUZ_DOMINICK_L_12-11.png?itok=hesZixtu"
+        "reach": 68.0
     },
     {
         "id": 26,
@@ -256,8 +231,7 @@
         "rank": 9,
         "age": 35,
         "height": 66.0,
-        "reach": 64.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/e4a08b07-c67d-41ae-9540-bfb0a1180c05%252FMUNHOZ_PEDRO_L_07-02.png?itok=tnxwO4PK"
+        "reach": 64.5
     },
     {
         "id": 27,
@@ -266,8 +240,7 @@
         "rank": 10,
         "age": 24,
         "height": 68.0,
-        "reach": 67.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-08/69674%252Fprofile-galery%252Ffullbodyleft-picture%252FSONG_YADONG_L_08-07.png?itok=ZFXeOlib"
+        "reach": 67.0
     },
     {
         "id": 28,
@@ -276,8 +249,7 @@
         "rank": 11,
         "age": 29,
         "height": 66.0,
-        "reach": 69.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/SIMON_RICKY_L_07-16.png?itok=OKBjjIvC"
+        "reach": 69.0
     },
     {
         "id": 29,
@@ -286,8 +258,7 @@
         "rank": 12,
         "age": 40,
         "height": 66.0,
-        "reach": 68.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-11/67978%252Fprofile-galery%252Ffullbodyleft-picture%252FEDGAR_FRANKIE_L_11-06.png?itok=GirRfbaO"
+        "reach": 68.0
     },
     {
         "id": 30,
@@ -296,8 +267,7 @@
         "rank": 13,
         "age": 27,
         "height": 71.0,
-        "reach": 72.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/093cd532-5efa-4ac5-afdc-54e1004291b1%252FO%2527MALLEY_SEAN_L_07-02.png?itok=0P0t6KR-"
+        "reach": 72.0
     },
     {
         "id": 31,
@@ -306,8 +276,7 @@
         "rank": 14,
         "age": 26,
         "height": 68.0,
-        "reach": 69.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-03/d57195df-5f24-4d29-a65d-84d4f4bf3d37%252FNURMAGOMEDOV_UMAR_L_03-05.png?itok=erMJibXF"
+        "reach": 69.0
     },
     {
         "id": 32,
@@ -316,8 +285,7 @@
         "rank": 15,
         "age": 27,
         "height": 68.0,
-        "reach": 71.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-03/2b830d04-ea6c-42e5-94c9-6dfa4a5dcbeb%252FSHORE_JACK_L_03-19.png?itok=iDmLG6-j"
+        "reach": 71.0
     },
     {
         "id": 33,
@@ -326,8 +294,7 @@
         "rank": 0,
         "age": 33,
         "height": 66.0,
-        "reach": 71.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-04/0984640e-8ef9-4283-afc3-d64ac0a0240a%252FVOLKANOVSKI_ALEXANDER_L_BELT_04-09.png?itok=2jQs8w9O"
+        "reach": 71.5
     },
     {
         "id": 34,
@@ -336,8 +303,7 @@
         "rank": 1,
         "age": 30,
         "height": 71.0,
-        "reach": 69.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/49b91c96-87a8-43ce-af9b-f9cac2c394d0%252FHOLLOWAY_MAX_L_07-02.png?itok=Kzzm6QwA"
+        "reach": 69.0
     },
     {
         "id": 35,
@@ -346,8 +312,7 @@
         "rank": 2,
         "age": 29,
         "height": 71.0,
-        "reach": 71.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/RODRIGUEZ_YAIR_L_07-16.png?itok=AfuhNqA7"
+        "reach": 71.0
     },
     {
         "id": 36,
@@ -356,8 +321,7 @@
         "rank": 3,
         "age": 31,
         "height": 68.0,
-        "reach": 69.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/ORTEGA_BRIAN_L_07-16.png?itok=80gsz5W1"
+        "reach": 69.0
     },
     {
         "id": 37,
@@ -366,8 +330,7 @@
         "rank": 4,
         "age": 37,
         "height": 66.5,
-        "reach": 70.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/32ce974a-9405-44e8-b735-3218d586ba82%252FEMMETT_JOSH_L_06-18.png?itok=WPd2kcEe"
+        "reach": 70.0
     },
     {
         "id": 38,
@@ -376,8 +339,7 @@
         "rank": 5,
         "age": 34,
         "height": 71.0,
-        "reach": 72.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/ac42f8ef-be39-4cec-9e97-79e5d3ecd610%252FKATTAR_CALVIN_L_06-18.png?itok=okBwWJXf"
+        "reach": 72.0
     },
     {
         "id": 39,
@@ -386,8 +348,7 @@
         "rank": 6,
         "age": 28,
         "height": 68.0,
-        "reach": 70.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-04/67397%252Fprofile-galery%252Ffullbodyleft-picture%252FALLEN_ARNOLD_L_04-10.png?VersionId=null&itok=9SQ--asv"
+        "reach": 70.0
     },
     {
         "id": 40,
@@ -396,8 +357,7 @@
         "rank": 7,
         "age": 35,
         "height": 67.0,
-        "reach": 72.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-06/67581%252Fprofile-galery%252Ffullbodyleft-picture%252FJUNG_CHAN_SUNG_L_06-19.png?VersionId=null&itok=9H7itvHJ"
+        "reach": 72.0
     },
     {
         "id": 41,
@@ -406,8 +366,7 @@
         "rank": 8,
         "age": 33,
         "height": 72.0,
-        "reach": 74.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-04/69723%252Fprofile-galery%252Ffullbodyleft-picture%252FCHIKADZE_GIGA_L_05-01.png?VersionId=null&itok=MaDZ0T0W"
+        "reach": 74.0
     },
     {
         "id": 42,
@@ -416,8 +375,7 @@
         "rank": 9,
         "age": 27,
         "height": 70.0,
-        "reach": 70.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-03/0c270ea6-b0c0-4ba3-b0bc-8ba7d71a09ec%252FMITCHELL_BRYCE_L_03-05.png?itok=4kciZ_YX"
+        "reach": 70.0
     },
     {
         "id": 43,
@@ -426,8 +384,7 @@
         "rank": 10,
         "age": 28,
         "height": 67.0,
-        "reach": 72.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/8caa3842-6eaf-45ba-a9e6-62e5912bc305%252FEVLOEV_MOVSAR_L_06-04.png?itok=OpzBG_w1"
+        "reach": 72.5
     },
     {
         "id": 44,
@@ -436,8 +393,7 @@
         "rank": 11,
         "age": 30,
         "height": 67.0,
-        "reach": 71.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/0559c91a-ae57-4404-9233-b3e32e704770%252FIGE_DAN_L_06-04.png?itok=yGsbT9JU"
+        "reach": 71.0
     },
     {
         "id": 45,
@@ -446,8 +402,7 @@
         "rank": 12,
         "age": 28,
         "height": 69.0,
-        "reach": 71.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/YUSUFF_SODIQ_L_04-10.png?itok=j_KjfXT4"
+        "reach": 71.0
     },
     {
         "id": 46,
@@ -456,28 +411,25 @@
         "rank": 13,
         "age": 36,
         "height": 71.0,
-        "reach": 75.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-06/BARBOZA_EDSON_L_05-15.png?VersionId=null&itok=QXXSVXOn"
+        "reach": 75.0
     },
     {
         "id": 47,
-        "name": "Shane Burgos",
+        "name": "Ilia Topuria",
         "weightClass": "Featherweight",
         "rank": 14,
-        "age": 31,
-        "height": 71.0,
-        "reach": 75.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/BURGOS_SHANE_L_07-16.png?itok=xnz9jrj5"
+        "age": 25,
+        "height": 67.0,
+        "reach": 69.0
     },
     {
         "id": 48,
-        "name": "Ilia Topuria",
+        "name": "Alex Caceres",
         "weightClass": "Featherweight",
         "rank": 15,
-        "age": 25,
-        "height": 67.0,
-        "reach": 69.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/TOPURIA_ILIA_L_07-10.png?itok=cxAHen_5"
+        "age": 34,
+        "height": 70.0,
+        "reach": 73.5
     },
     {
         "id": 49,
@@ -486,8 +438,7 @@
         "rank": 1,
         "age": 32,
         "height": 70.0,
-        "reach": 74.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-05/67583%252Fprofile-galery%252Ffullbodyleft-picture%252FOLIVEIRA_CHARLES_L_05-15.png?VersionId=null&itok=kQFueyqF"
+        "reach": 74.0
     },
     {
         "id": 50,
@@ -496,8 +447,7 @@
         "rank": 2,
         "age": 33,
         "height": 69.0,
-        "reach": 72.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/67863%252Fprofile-galery%252Ffullbodyleft-picture%252FPOIRIER_DUSTIN_L_07-10.png?itok=Ym7t8LDY"
+        "reach": 72.0
     },
     {
         "id": 51,
@@ -506,8 +456,7 @@
         "rank": 3,
         "age": 33,
         "height": 71.0,
-        "reach": 70.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/GAETHJE_JUSTIN_L_05-07.png?itok=QJG2-nUx"
+        "reach": 70.0
     },
     {
         "id": 52,
@@ -516,8 +465,7 @@
         "rank": 4,
         "age": 30,
         "height": 70.0,
-        "reach": 70.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/68127%252Fprofile-galery%252Ffullbodyleft-picture%252FMAKHACHEV_ISLAM_L_07-17.png?itok=D-Jwvnnd"
+        "reach": 70.5
     },
     {
         "id": 53,
@@ -526,18 +474,16 @@
         "rank": 5,
         "age": 36,
         "height": 68.0,
-        "reach": 71.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-05/1dd9466e-5d52-4a1d-8af9-201e9af35e6a%252FCHANDLER_MICHAEL_L_05-07.png?itok=SGvqtEC7"
+        "reach": 71.5
     },
     {
         "id": 54,
         "name": "Beneil Dariush",
         "weightClass": "Lightweight",
         "rank": 6,
-        "age": 32,
+        "age": 33,
         "height": 70.0,
-        "reach": 72.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-06/DARIUSH_BENEIL_L_05-15.png?VersionId=null&itok=YyqV8QhP"
+        "reach": 72.0
     },
     {
         "id": 55,
@@ -546,8 +492,7 @@
         "rank": 7,
         "age": 29,
         "height": 68.0,
-        "reach": 71.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/b3773873-9374-4236-8551-183b96c9498c%252FFIZIEV_RAFAEL_L_07-09.png?itok=rtiMC1XZ"
+        "reach": 71.5
     },
     {
         "id": 56,
@@ -556,8 +501,7 @@
         "rank": 8,
         "age": 37,
         "height": 68.0,
-        "reach": 70.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/image/fighter_images/Rafael_Dos_Anjos/DOS_ANJOS_RAFAEL_L.png?VersionId=ZPyVUtap3EvuWQ7ZDaolKa41IFGKswQB&itok=llChgHj_"
+        "reach": 70.0
     },
     {
         "id": 57,
@@ -566,8 +510,7 @@
         "rank": 9,
         "age": 31,
         "height": 70.0,
-        "reach": 70.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/71373277-e845-4f33-8229-849d0838ed2b%252FGAMROT_MATEUSZ_L_06-25.png?itok=EQG8I-Sj"
+        "reach": 70.5
     },
     {
         "id": 58,
@@ -576,8 +519,7 @@
         "rank": 10,
         "age": 25,
         "height": 67.0,
-        "reach": 72.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/7b15cc81-3b65-488e-8237-3991bc19710a%252FTSARUKYAN_ARMAN_L_06-25.png?itok=nJLauOnB"
+        "reach": 72.5
     },
     {
         "id": 59,
@@ -586,18 +528,16 @@
         "rank": 11,
         "age": 38,
         "height": 71.0,
-        "reach": 76.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/FERGUSON_TONY_L_05-07.png?itok=Q-waozUA"
+        "reach": 76.5
     },
     {
         "id": 60,
         "name": "Conor McGregor",
         "weightClass": "Lightweight",
         "rank": 12,
-        "age": 33,
+        "age": 34,
         "height": 69.0,
-        "reach": 74.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/MCGREGOR_CONOR_L_07-10.png?itok=xbg9Kwfj"
+        "reach": 74.0
     },
     {
         "id": 61,
@@ -606,8 +546,7 @@
         "rank": 13,
         "age": 32,
         "height": 72.0,
-        "reach": 75.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-11/67713%252Fprofile-galery%252Ffullbodyleft-picture%252FHOOKER_DAN_L_10-30.png?itok=VFGj6ctv"
+        "reach": 75.0
     },
     {
         "id": 62,
@@ -616,8 +555,7 @@
         "rank": 14,
         "age": 27,
         "height": 75.0,
-        "reach": 77.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/e22c890b-633a-4f3a-87a6-24fbf20f6d44%252FTURNER_JALIN_L_07-02.png?itok=G7oSUQh-"
+        "reach": 77.0
     },
     {
         "id": 63,
@@ -626,48 +564,43 @@
         "rank": 15,
         "age": 31,
         "height": 70.0,
-        "reach": 74.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/f9d426dd-8ac6-495f-99e3-ee0f234ba507%252FISMAGULOV_DAMIR_L_06-18.png?itok=70joOiF5"
+        "reach": 74.0
     },
     {
         "id": 64,
-        "name": "Kamaru Usman",
+        "name": "Leon Edwards",
         "weightClass": "Welterweight",
         "rank": 0,
-        "age": 35,
+        "age": 30,
         "height": 72.0,
-        "reach": 76.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-04/68441%252Fprofile-galery%252Ffullbodyleft-picture%252FUSMAN_KAMARU_L_BELT_04-24.png?VersionId=null&itok=8JVb3YtA"
+        "reach": 74.0
     },
     {
         "id": 65,
-        "name": "Colby Covington",
+        "name": "Kamaru Usman",
         "weightClass": "Welterweight",
         "rank": 1,
-        "age": 34,
-        "height": 71.0,
-        "reach": 72.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-03/0b2f6b55-7a5d-49f1-9bc3-7076406d904f%252FCOVINGTON_COLBY_L_11-06.png?itok=9qVDWt-k"
+        "age": 35,
+        "height": 72.0,
+        "reach": 76.0
     },
     {
         "id": 66,
-        "name": "Leon Edwards",
+        "name": "Colby Covington",
         "weightClass": "Welterweight",
         "rank": 2,
-        "age": 30,
-        "height": 72.0,
-        "reach": 74.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-06/68564%252Fprofile-galery%252Ffullbodyleft-picture%252FEDWARDS_LEON_L_06-12.png?VersionId=null&itok=LiQ8I9Fh"
+        "age": 34,
+        "height": 71.0,
+        "reach": 72.0
     },
     {
         "id": 67,
         "name": "Khamzat Chimaev",
         "weightClass": "Welterweight",
         "rank": 3,
-        "age": 27,
+        "age": 28,
         "height": 74.0,
-        "reach": 75.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-11/71660%252Fprofile-galery%252Ffullbodyleft-picture%252FCHIMAEV_KHAMZAT_L_10-30.png?itok=V9OsChbC"
+        "reach": 75.0
     },
     {
         "id": 68,
@@ -676,28 +609,25 @@
         "rank": 4,
         "age": 35,
         "height": 70.0,
-        "reach": 71.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/68020%252Fprofile-galery%252Ffullbodyleft-picture%252FBURNS_GILBERT_L_07-10.png?itok=M6BlAm5G"
+        "reach": 71.0
     },
     {
         "id": 69,
         "name": "Belal Muhammad",
         "weightClass": "Welterweight",
         "rank": 5,
-        "age": 33,
+        "age": 34,
         "height": 71.0,
-        "reach": 72.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/MUHAMMAD_BELAL_L_06-12.png?itok=0GphvQXy"
+        "reach": 72.0
     },
     {
         "id": 70,
-        "name": "Vicente Luque",
+        "name": "Geoff Neal",
         "weightClass": "Welterweight",
         "rank": 6,
-        "age": 30,
+        "age": 31,
         "height": 71.0,
-        "reach": 75.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-04/71353a42-1d5e-4983-a651-75cc91218919%252FLUQUE_VICENTE_L_04-16.png?itok=30wpAf25"
+        "reach": 75.0
     },
     {
         "id": 71,
@@ -706,68 +636,61 @@
         "rank": 7,
         "age": 39,
         "height": 72.0,
-        "reach": 75.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/THOMPSON_STEPHEN_L_07-10.png?itok=TxCRYCXL"
+        "reach": 75.0
     },
     {
         "id": 72,
-        "name": "Jorge Masvidal",
+        "name": "Sean Brady",
         "weightClass": "Welterweight",
         "rank": 8,
-        "age": 37,
-        "height": 71.0,
-        "reach": 74.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/MASVIDAL_JORGE_L_04-24.png?itok=xClc4NJc"
+        "age": 29,
+        "height": 70.0,
+        "reach": 72.0
     },
     {
         "id": 73,
-        "name": "Sean Brady",
+        "name": "Jorge Masvidal",
         "weightClass": "Welterweight",
         "rank": 9,
-        "age": 29,
-        "height": 70.0,
-        "reach": 72.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-11/69577%252Fprofile-galery%252Ffullbodyleft-picture%252FBRADY_SEAN_L_11-20.png?itok=DRPjhf3T"
+        "age": 37,
+        "height": 71.0,
+        "reach": 74.0
     },
     {
         "id": 74,
-        "name": "Shavkat Rakhmonov",
+        "name": "Vicente Luque",
         "weightClass": "Welterweight",
         "rank": 10,
-        "age": 27,
-        "height": 73.0,
-        "reach": 77.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/ec3d59eb-2f08-4a5c-ba06-164d05bb478f%252FRAKHMONOV_SHAVKHAT_L_06-25.png?itok=EpEszo7w"
+        "age": 30,
+        "height": 71.0,
+        "reach": 75.5
     },
     {
         "id": 75,
-        "name": "Michael Chiesa",
+        "name": "Shavkat Rakhmonov",
         "weightClass": "Welterweight",
         "rank": 11,
-        "age": 34,
+        "age": 27,
         "height": 73.0,
-        "reach": 75.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-08/68797%252Fprofile-galery%252Ffullbodyleft-picture%252FCHIESA_MICHAEL_L_08-07.png?itok=MWF2Rk9h"
+        "reach": 77.0
     },
     {
         "id": 76,
-        "name": "Neil Magny",
+        "name": "Michael Chiesa",
         "weightClass": "Welterweight",
         "rank": 12,
         "age": 34,
-        "height": 75.0,
-        "reach": 80.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/cd04a6f0-b291-4b34-84a7-ab332940ca0b%252FMAGNY_NEIL_L_06-25.png?itok=lbbY9EAN"
+        "height": 73.0,
+        "reach": 75.5
     },
     {
         "id": 77,
-        "name": "Geoff Neal",
+        "name": "Neil Magny",
         "weightClass": "Welterweight",
         "rank": 13,
-        "age": 31,
-        "height": 71.0,
-        "reach": 75.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-05/68006%252Fprofile-galery%252Ffullbodyleft-picture%252FNEAL_GEOFF_L_05-08.png?VersionId=null&itok=ewlUizsz"
+        "age": 34,
+        "height": 75.0,
+        "reach": 80.0
     },
     {
         "id": 78,
@@ -776,8 +699,7 @@
         "rank": 14,
         "age": 34,
         "height": 72.0,
-        "reach": 71.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/JINGLIANG_LI_L_10-30.png?itok=CDDCPB0j"
+        "reach": 71.5
     },
     {
         "id": 79,
@@ -786,8 +708,7 @@
         "rank": 15,
         "age": 28,
         "height": 73.0,
-        "reach": 73.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/PEREIRA_MICHEL_L_07-10.png?itok=NgqUUYNu"
+        "reach": 73.0
     },
     {
         "id": 80,
@@ -796,8 +717,7 @@
         "rank": 0,
         "age": 32,
         "height": 76.0,
-        "reach": 80.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-06/68129_profile-galery_fullbodyleft-picture_ADESANYA_ISRAEL_L_06-12.png?VersionId=null&itok=lddfaxZg"
+        "reach": 80.0
     },
     {
         "id": 81,
@@ -806,8 +726,7 @@
         "rank": 1,
         "age": 31,
         "height": 72.0,
-        "reach": 73.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-04/69114%252Fprofile-galery%252Ffullbodyleft-picture%252FWHITTAKER_ROBERT_L_04-17.png?VersionId=null&itok=GOHxhvfd"
+        "reach": 73.5
     },
     {
         "id": 82,
@@ -816,18 +735,16 @@
         "rank": 2,
         "age": 38,
         "height": 71.0,
-        "reach": 77.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/c94750b2-8c3a-4dd7-840c-7bfa0293c244%252FCANNONIER_JARED_L_07-02.png?itok=wWRjRMav"
+        "reach": 77.5
     },
     {
         "id": 83,
         "name": "Marvin Vettori",
         "weightClass": "Middleweight",
-        "rank": 3,
+        "rank": 2,
         "age": 28,
         "height": 72.0,
-        "reach": 74.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-04/68737%252Fprofile-galery%252Ffullbodyleft-picture%252FVETTORI_MARVIN_L_04-10.png?VersionId=null&itok=bcHcMyIK"
+        "reach": 74.0
     },
     {
         "id": 84,
@@ -836,8 +753,7 @@
         "rank": 4,
         "age": 38,
         "height": 73.0,
-        "reach": 77.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-09/67807%252Fprofile-galery%252Ffullbodyleft-picture%252FBRUNSON_DEREK_L_09-04.png?itok=WWFC2D7b"
+        "reach": 77.0
     },
     {
         "id": 85,
@@ -846,8 +762,7 @@
         "rank": 5,
         "age": 35,
         "height": 76.0,
-        "reach": 79.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/55fbce59-2dd7-4210-8501-b88e0c948d80%252FPEREIRA_ALEX_L_07-02.png?itok=K1jPXD2v"
+        "reach": 79.0
     },
     {
         "id": 86,
@@ -856,8 +771,7 @@
         "rank": 6,
         "age": 31,
         "height": 73.0,
-        "reach": 72.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-10/68993%252Fprofile-galery%252Ffullbodyleft-picture%252FCOSTA_PAULO_L_10-23.png?itok=f4EiaU1I"
+        "reach": 72.0
     },
     {
         "id": 87,
@@ -866,8 +780,7 @@
         "rank": 7,
         "age": 31,
         "height": 73.0,
-        "reach": 76.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-03/fe752a6f-ea39-4367-8e36-63ffbbb24729%252FSTRICKLAND_SEAN_L_02-05.png?itok=gzosOLTY"
+        "reach": 76.0
     },
     {
         "id": 88,
@@ -876,8 +789,7 @@
         "rank": 8,
         "age": 34,
         "height": 73.0,
-        "reach": 77.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-02/fef3a1eb-edb2-4f3b-be6b-92998eb16134%252FHERMANSSON_JACK_L_02-05.png?itok=QxrSWqlv"
+        "reach": 77.5
     },
     {
         "id": 89,
@@ -886,8 +798,7 @@
         "rank": 9,
         "age": 29,
         "height": 72.0,
-        "reach": 74.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-03/94dc7ead-60a3-4e27-b445-8608b265da89%252FTILL_DARREN_L_09-04.png?itok=CfGyerxY"
+        "reach": 74.5
     },
     {
         "id": 90,
@@ -896,8 +807,7 @@
         "rank": 10,
         "age": 32,
         "height": 73.0,
-        "reach": 78.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/6656baa5-7df3-4c23-9508-fed6d682be6d%252FMUNIZ_ANDRE_L_07-02.png?itok=GtJnXSPo"
+        "reach": 78.0
     },
     {
         "id": 91,
@@ -906,48 +816,43 @@
         "rank": 11,
         "age": 30,
         "height": 69.0,
-        "reach": 71.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-06/GASTELUM_KELVIN_L_04-17.png?itok=NACbbv1V"
+        "reach": 71.5
     },
     {
         "id": 92,
-        "name": "Uriah Hall",
+        "name": "Nassourdine Imavov",
         "weightClass": "Middleweight",
         "rank": 12,
-        "age": 37,
-        "height": 72.0,
-        "reach": 79.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/8b787623-45ca-45ae-9642-49677bf57ce9%252FHALL_URIAH_L_07-02.png?itok=U6QpnX0d"
+        "age": 27,
+        "height": 75.0,
+        "reach": 75.0
     },
     {
         "id": 93,
-        "name": "Nassourdine Imavov",
+        "name": "Dricus Du Plessis",
         "weightClass": "Middleweight",
         "rank": 13,
-        "age": 27,
-        "height": 75.0,
-        "reach": 75.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/71679%252Fprofile-galery%252Ffullbodyleft-picture%252FIMAVOV_NASSOURDINE_L_07-24.png?itok=tx9_29V1"
+        "age": 28,
+        "height": 73.0,
+        "reach": 76.0
     },
     {
         "id": 94,
-        "name": "Dricus Du Plessis",
+        "name": "Brad Tavares",
         "weightClass": "Middleweight",
         "rank": 14,
-        "age": 28,
+        "age": 34,
         "height": 73.0,
-        "reach": 76.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/DU_PLESSUS_DRICUS_L_07-10.png?itok=QK0-grkj"
+        "reach": 74.0
     },
     {
         "id": 95,
-        "name": "Brad Tavares",
+        "name": "Chris Curtis",
         "weightClass": "Middleweight",
         "rank": 15,
-        "age": 34,
-        "height": 73.0,
-        "reach": 74.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/6481a732-f020-448e-aca7-7ca200468da2%252FTAVARES_BRAD_L_07-02.png?itok=PZUeYDPK"
+        "age": 35,
+        "height": 70.0,
+        "reach": 75.5
     },
     {
         "id": 96,
@@ -956,8 +861,7 @@
         "rank": 0,
         "age": 29,
         "height": 75.0,
-        "reach": 80.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/e66264ab-cd89-48bb-a170-1fec589b46a5%252FPROCHAZKA_JIRI_L_BELTCOMP.png?itok=ShoQER3C"
+        "reach": 80.0
     },
     {
         "id": 97,
@@ -966,8 +870,7 @@
         "rank": 1,
         "age": 42,
         "height": 74.0,
-        "reach": 76.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-11/68036%252Fprofile-galery%252Ffullbodyleft-picture%252FTEIXEIRA_GLOVER_L_10-30.png?itok=w8Jrh1f4"
+        "reach": 76.0
     },
     {
         "id": 98,
@@ -976,8 +879,7 @@
         "rank": 2,
         "age": 39,
         "height": 74.0,
-        "reach": 78.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-05/812dc71b-2116-4b24-bd64-78e8b42447f7%252FBLACHOWICZ_JAN_L_05-14.png?itok=NA_McbC9"
+        "reach": 78.0
     },
     {
         "id": 99,
@@ -986,8 +888,7 @@
         "rank": 3,
         "age": 30,
         "height": 75.0,
-        "reach": 75.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-03/8d73a67c-93a8-47bb-a433-6b752739b666%252FANKALAEV_MAGOMED_L_03-12.png?itok=hJWQCnh4"
+        "reach": 75.0
     },
     {
         "id": 100,
@@ -996,8 +897,7 @@
         "rank": 4,
         "age": 30,
         "height": 76.0,
-        "reach": 78.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/RAKIC_ALEKSANDAR_L_05-14.png?itok=7hzDVZpj"
+        "reach": 78.0
     },
     {
         "id": 101,
@@ -1006,18 +906,16 @@
         "rank": 5,
         "age": 34,
         "height": 76.0,
-        "reach": 76.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-04/67367%252Fprofile-galery%252Ffullbodyleft-picture%252FSMITH_ANTHONY_L_04-24.png?VersionId=null&itok=8wz0NTrT"
+        "reach": 76.0
     },
     {
         "id": 102,
-        "name": "Thiago Santos",
+        "name": "Jamahal Hill",
         "weightClass": "Light Heavyweight",
         "rank": 6,
-        "age": 38,
-        "height": 74.0,
-        "reach": 76.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-10/69355%252Fprofile-galery%252Ffullbodyleft-picture%252FSANTOS_THIAGO_L_10-02.png?itok=-CaBzQzv"
+        "age": 31,
+        "height": 76.0,
+        "reach": 79.0
     },
     {
         "id": 103,
@@ -1026,8 +924,7 @@
         "rank": 7,
         "age": 32,
         "height": 76.0,
-        "reach": 77.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-04/67840%252Fprofile-galery%252Ffullbodyleft-picture%252FREYES_DOMINICK_L_05-01.png?VersionId=null&itok=6U11szFW"
+        "reach": 77.0
     },
     {
         "id": 104,
@@ -1036,28 +933,25 @@
         "rank": 8,
         "age": 32,
         "height": 74.0,
-        "reach": 75.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/OEZDEMIR_VOLKAN_L_07-23.png?itok=f09v5J2c"
+        "reach": 75.0
     },
     {
         "id": 105,
-        "name": "Paul Craig",
+        "name": "Thiago Santos",
         "weightClass": "Light Heavyweight",
         "rank": 9,
-        "age": 34,
-        "height": 75.5,
-        "reach": 76.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/CRAIG_PAUL_L_07-23.png?itok=MSzxZQCO"
+        "age": 38,
+        "height": 74.0,
+        "reach": 76.0
     },
     {
         "id": 106,
-        "name": "Jamahal Hill",
+        "name": "Paul Craig",
         "weightClass": "Light Heavyweight",
         "rank": 10,
-        "age": 30,
-        "height": 76.0,
-        "reach": 79.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-02/689f14e8-507c-4705-98b3-f8e80eee8cad%252FHILL_JAMAHAL_L_02-19.png?itok=VA63MkX8"
+        "age": 34,
+        "height": 75.5,
+        "reach": 76.0
     },
     {
         "id": 107,
@@ -1066,8 +960,7 @@
         "rank": 11,
         "age": 30,
         "height": 75.0,
-        "reach": 77.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-03/ce1213ea-c2b7-43bf-ad4e-c3f45c37f8c3%252FKRYLOV_NIKITA_L_03-19.png?itok=QzVjMsrV"
+        "reach": 77.5
     },
     {
         "id": 108,
@@ -1076,8 +969,7 @@
         "rank": 12,
         "age": 30,
         "height": 77.0,
-        "reach": 79.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-11/SPANN_RYAN_L_09-18.png?itok=qgkO4yqE"
+        "reach": 79.0
     },
     {
         "id": 109,
@@ -1086,8 +978,7 @@
         "rank": 13,
         "age": 29,
         "height": 78.0,
-        "reach": 82.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-02/601d454c-9816-4660-8f47-c92f3a3738f3%252FWALKER_JOHNNY_L_02-19.png?itok=-Oj2FjNg"
+        "reach": 82.0
     },
     {
         "id": 110,
@@ -1096,8 +987,7 @@
         "rank": 14,
         "age": 34,
         "height": 75.0,
-        "reach": 76.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/JACOBY_DUSTIN_L_07-16.png?itok=80JZqy6F"
+        "reach": 76.0
     },
     {
         "id": 111,
@@ -1106,8 +996,7 @@
         "rank": 15,
         "age": 26,
         "height": 74.0,
-        "reach": 74.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-06/CRUTE_JIMMY_L_04-24.png?VersionId=null&itok=bclnaDbU"
+        "reach": 74.0
     },
     {
         "id": 112,
@@ -1116,8 +1005,7 @@
         "rank": 0,
         "age": 35,
         "height": 76.0,
-        "reach": 83.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-01/3d75a594-27a1-4c19-875a-8d7d4dc17b42%252FNGANNOU_FRANCIS_L_BELT_01-22.png?itok=EcfIjUew"
+        "reach": 83.0
     },
     {
         "id": 113,
@@ -1126,8 +1014,7 @@
         "rank": 1,
         "age": 31,
         "height": 76.0,
-        "reach": 81.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-06/71544%252Fprofile-galery%252Ffullbodyleft-picture%252FGANE_CYRIL_L_06-26.png?itok=MA7V_Rju"
+        "reach": 81.0
     },
     {
         "id": 114,
@@ -1136,8 +1023,7 @@
         "rank": 2,
         "age": 39,
         "height": 77.0,
-        "reach": 80.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2020-03/MIOCIC_STIPE_L.png?VersionId=AvpdfeJOw_RIVkLQfyNsDDCkr7v26RtH&itok=tBa8SpCC"
+        "reach": 80.0
     },
     {
         "id": 115,
@@ -1146,8 +1032,7 @@
         "rank": 3,
         "age": 29,
         "height": 74.0,
-        "reach": 75.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-03/024162f6-408f-4518-8855-f055df3f5da8%252FTUIVASA_TAI_L_02-12.png?itok=3oinmKUW"
+        "reach": 75.0
     },
     {
         "id": 116,
@@ -1156,8 +1041,7 @@
         "rank": 4,
         "age": 31,
         "height": 76.0,
-        "reach": 80.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/228e06d2-8a86-42c0-a743-1929f8126eb7%252FBLAYDES_CURTIS_L_03-26.png?itok=TY0Rw6V7"
+        "reach": 80.0
     },
     {
         "id": 117,
@@ -1166,8 +1050,7 @@
         "rank": 5,
         "age": 30,
         "height": 75.0,
-        "reach": 84.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/PAVLOVICH_SERGEI_L_03-19.png?itok=2jGAAbg2"
+        "reach": 84.0
     },
     {
         "id": 118,
@@ -1176,8 +1059,7 @@
         "rank": 6,
         "age": 29,
         "height": 77.0,
-        "reach": 78.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/1f5bd29d-50af-436e-b4ce-996c75742c02%252FASPINALL_TOM_L_03-19.png?itok=pOyw3Gy8"
+        "reach": 78.0
     },
     {
         "id": 119,
@@ -1186,8 +1068,7 @@
         "rank": 7,
         "age": 37,
         "height": 75.0,
-        "reach": 79.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/LEWIS_DERRICK_L_07-30.png?itok=E3H-vpT-"
+        "reach": 79.0
     },
     {
         "id": 120,
@@ -1196,8 +1077,7 @@
         "rank": 8,
         "age": 33,
         "height": 79.0,
-        "reach": 80.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/9e4d4db5-d9dc-475b-893c-f2298d8a0920%252FVOLKOV_ALEXANDER_L_06-04.png?itok=D1ngUh-k"
+        "reach": 80.0
     },
     {
         "id": 121,
@@ -1206,58 +1086,52 @@
         "rank": 9,
         "age": 34,
         "height": 74.0,
-        "reach": 78.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/1eb95f06-585c-4565-ad55-8a0ca3d84ac8%252FROZENSTRUIK_JAIRZINHO_L_06-04.png?itok=IJW2dU39"
+        "reach": 78.0
     },
     {
         "id": 122,
-        "name": "Chris Daukaus",
+        "name": "Marcin Tybura",
         "weightClass": "Heavyweight",
         "rank": 10,
-        "age": 32,
+        "age": 36,
         "height": 75.0,
-        "reach": 76.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-11/DAUKAUS_CHRIS_L_09-25.png?itok=34hCc54A"
+        "reach": 78.0
     },
     {
         "id": 123,
-        "name": "Marcin Tybura",
+        "name": "Chris Daukaus",
         "weightClass": "Heavyweight",
         "rank": 11,
-        "age": 36,
+        "age": 32,
         "height": 75.0,
-        "reach": 78.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-06/68680%252Fprofile-galery%252Ffullbodyleft-picture%252FTYBURA_MARCIN_L_06-05.png?VersionId=null&itok=yxWH0Oqu"
+        "reach": 76.0
     },
     {
         "id": 124,
-        "name": "Alexandr Romanov",
+        "name": "Serghei Spivac",
         "weightClass": "Heavyweight",
         "rank": 12,
-        "age": 31,
-        "height": 74.0,
-        "reach": 75.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-04/318f6bdb-ab1d-4e95-8328-37d1e0d4072f%252FROMANOV_ALEXANDR_L_04-23.png?itok=wikEmFdJ"
+        "age": 27,
+        "height": 75.0,
+        "reach": 78.0
     },
     {
         "id": 125,
-        "name": "Shamil Abdurakhimov",
+        "name": "Alexandr Romanov",
         "weightClass": "Heavyweight",
         "rank": 13,
-        "age": 40,
-        "height": 75.0,
-        "reach": 76.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-09/69243%252Fprofile-galery%252Ffullbodyleft-picture%252FABDURAKHIMOV_SHAMIL_L_09-25.png?itok=RUWHBFwO"
+        "age": 31,
+        "height": 74.0,
+        "reach": 75.0
     },
     {
         "id": 126,
-        "name": "Augusto Sakai",
+        "name": "Shamil Abdurakhimov",
         "weightClass": "Heavyweight",
         "rank": 14,
-        "age": 30,
+        "age": 40,
         "height": 75.0,
-        "reach": 77.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-06/69694%252Fprofile-galery%252Ffullbodyleft-picture%252FSAKAI_AUGUSTO_L_06-05.png?VersionId=null&itok=9P4cQDL-"
+        "reach": 76.0
     },
     {
         "id": 127,
@@ -1266,7 +1140,6 @@
         "rank": 15,
         "age": 35,
         "height": 71.0,
-        "reach": 73.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-05/2960e352-bec7-41a0-803f-3a3336fed367%252FIVANOV_BLAGOY_L_05-07.png?itok=rYiwdvgx"
+        "reach": 73.0
     }
 ]

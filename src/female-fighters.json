@@ -6,8 +6,7 @@
         "rank": 0,
         "age": 34,
         "height": 61.0,
-        "reach": 63.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/ESPARZA_CARLA_L_05-07_BELT.png?itok=eiuo1dgB"
+        "reach": 63.0
     },
     {
         "id": 129,
@@ -16,8 +15,7 @@
         "rank": 1,
         "age": 30,
         "height": 65.0,
-        "reach": 65.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-08/69149%252Fprofile-galery%252Ffullbodyleft-picture%252FNAMAJUNAS_ROSE_L_04-24.png?itok=kpkn1178"
+        "reach": 65.0
     },
     {
         "id": 130,
@@ -26,8 +24,7 @@
         "rank": 2,
         "age": 32,
         "height": 64.0,
-        "reach": 63.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/d6bd47bc-d423-4ae8-9073-f0abd7777751%252FWEILI_ZHANG_L_06-11.png?itok=B_yC1vGB"
+        "reach": 63.0
     },
     {
         "id": 131,
@@ -36,38 +33,34 @@
         "rank": 3,
         "age": 34,
         "height": 66.0,
-        "reach": 65.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-10/68706%252Fprofile-galery%252Ffullbodyleft-picture%252FRODRIGUEZ_MARINA_L_10-09.png?itok=n5YiVB1W"
+        "reach": 65.0
     },
     {
         "id": 132,
-        "name": "Mackenzie Dern",
+        "name": "Jessica Andrade",
         "weightClass": "Strawweight",
         "rank": 4,
-        "age": 29,
-        "height": 64.0,
-        "reach": 63.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-06/DERN_MACKENZIE_L_04-10.png?itok=rr3aWMaE"
+        "age": 30,
+        "height": 61.5,
+        "reach": 62.0
     },
     {
         "id": 133,
-        "name": "Yan Xiaonan",
+        "name": "Mackenzie Dern",
         "weightClass": "Strawweight",
         "rank": 5,
-        "age": 32,
-        "height": 65.0,
-        "reach": 63.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-05/69520%252Fprofile-galery%252Ffullbodyleft-picture%252FXIAONAN_YAN_L_05-22.png?VersionId=null&itok=BJK1MMcm"
+        "age": 29,
+        "height": 64.0,
+        "reach": 63.0
     },
     {
         "id": 134,
-        "name": "Jessica Andrade",
+        "name": "Yan Xiaonan",
         "weightClass": "Strawweight",
         "rank": 6,
-        "age": 30,
-        "height": 61.5,
-        "reach": 62.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/9e1322ed-8b10-40f2-b0fc-575fb206c20c%252FANDRADE_JESSICA_L_04-23.png?itok=3jTE7pkP"
+        "age": 32,
+        "height": 65.0,
+        "reach": 63.0
     },
     {
         "id": 135,
@@ -76,8 +69,7 @@
         "rank": 7,
         "age": 32,
         "height": 61.0,
-        "reach": 60.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-08/69341%252Fprofile-galery%252Ffullbodyleft-picture%252FTORRES_TECIA_L_08-07.png?itok=c6kfUByt"
+        "reach": 60.5
     },
     {
         "id": 136,
@@ -86,28 +78,25 @@
         "rank": 8,
         "age": 35,
         "height": 64.0,
-        "reach": 65.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-04/8d2e2ccd-45be-44c4-a29f-14f59d6c5ed2%252FLEMOS_AMANDA_L_04-23.png?itok=lMJKWFYy"
+        "reach": 65.0
     },
     {
         "id": 137,
-        "name": "Nina Nunes",
+        "name": "Amanda Ribas",
         "weightClass": "Strawweight",
         "rank": 9,
-        "age": 36,
-        "height": 65.0,
-        "reach": 64.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/5d2baa3d-591b-4d49-b2fa-49a46db97993%252FNUNES_NINA_L_07-09.png?itok=eSrhW0zO"
+        "age": 28,
+        "height": 64.0,
+        "reach": 66.0
     },
     {
         "id": 138,
-        "name": "Amanda Ribas",
+        "name": "Virna Jandiroba",
         "weightClass": "Strawweight",
         "rank": 10,
-        "age": 28,
-        "height": 64.0,
-        "reach": 66.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-05/67290%252Fprofile-galery%252Ffullbodyleft-picture%252FRIBAS_AMANDA_L_05-08.png?VersionId=null&itok=NkCWGw54"
+        "age": 33,
+        "height": 63.0,
+        "reach": 64.0
     },
     {
         "id": 139,
@@ -116,48 +105,43 @@
         "rank": 11,
         "age": 36,
         "height": 63.0,
-        "reach": 62.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/WATERSON-GOMEZ_MICHELLE_L_07-16.png?itok=vlltUuJ4"
+        "reach": 62.0
     },
     {
         "id": 140,
-        "name": "Virna Jandiroba",
+        "name": "Angela Hill",
         "weightClass": "Strawweight",
         "rank": 12,
-        "age": 33,
+        "age": 37,
         "height": 63.0,
-        "reach": 64.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-06/69468%252Fprofile-galery%252Ffullbodyleft-picture%252FJANDIROBA_VIRNA_L_06-19.png?VersionId=null&itok=kF8AeAaP"
+        "reach": 64.5
     },
     {
         "id": 141,
-        "name": "Angela Hill",
+        "name": "Emily Ducote",
         "weightClass": "Strawweight",
         "rank": 13,
-        "age": 37,
-        "height": 63.0,
-        "reach": 64.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-08/67345%252Fprofile-galery%252Ffullbodyleft-picture%252FHILL_ANGELA_L_08-07.png?itok=1t_qO60X"
+        "age": 28,
+        "height": 62.0,
+        "reach": 63.0
     },
     {
         "id": 142,
-        "name": "Emily Ducote",
+        "name": "Luana Pinheiro",
         "weightClass": "Strawweight",
         "rank": 14,
-        "age": 28,
-        "height": 62.0,
-        "reach": 63.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/DUCOTE_EMILY_L_07-16.png?itok=H2DILtKc"
+        "age": 29,
+        "height": 62.5,
+        "reach": 62.5
     },
     {
         "id": 143,
-        "name": "Luana Pinheiro",
+        "name": "Jessica Penne",
         "weightClass": "Strawweight",
         "rank": 15,
-        "age": 29,
-        "height": 62.5,
-        "reach": 62.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-05/71666%252Fprofile-galery%252Ffullbodyleft-picture%252FPINHEIRO_LUANA_L_05-01.png?VersionId=null&itok=HemyO-83"
+        "age": 39,
+        "height": 65.0,
+        "reach": 67.0
     },
     {
         "id": 144,
@@ -166,8 +150,7 @@
         "rank": 0,
         "age": 34,
         "height": 65.0,
-        "reach": 66.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/%5Bdate%3Acustom%3AY%5D-%5Bdate%3Acustom%3Am%5D/SHEVCHENKO_VALENTINA_L_BELT_04-24.png?VersionId=null&itok=KpjlJhRW"
+        "reach": 66.5
     },
     {
         "id": 145,
@@ -176,8 +159,7 @@
         "rank": 1,
         "age": 33,
         "height": 69.0,
-        "reach": 68.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-05/fd6b4555-64bc-4a5f-8bb2-11a10b3eb5bb%252FCHOOKAGIAN_KATLYN_L_05-14.png?itok=tyYVBiDU"
+        "reach": 68.0
     },
     {
         "id": 146,
@@ -186,8 +168,7 @@
         "rank": 2,
         "age": 29,
         "height": 66.0,
-        "reach": 68.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/8eb303a9-d887-4541-905b-e3e7461ed95e%252FSANTOS_TAILA_L_06-11.png?itok=UuRKEMr9"
+        "reach": 68.0
     },
     {
         "id": 147,
@@ -196,8 +177,7 @@
         "rank": 3,
         "age": 38,
         "height": 65.0,
-        "reach": 67.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-06/68552%252Fprofile-galery%252Ffullbodyleft-picture%252FMURPHY_LAUREN_L_06-12.png?VersionId=null&itok=6PwmmIr2"
+        "reach": 67.0
     },
     {
         "id": 148,
@@ -206,8 +186,7 @@
         "rank": 4,
         "age": 30,
         "height": 61.5,
-        "reach": 62.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/9e1322ed-8b10-40f2-b0fc-575fb206c20c%252FANDRADE_JESSICA_L_04-23.png?itok=3jTE7pkP"
+        "reach": 62.0
     },
     {
         "id": 149,
@@ -216,8 +195,7 @@
         "rank": 5,
         "age": 28,
         "height": 65.0,
-        "reach": 66.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/67228/profile-galery/fullbodyleft-picture/GRASSO_ALEXA_L.png?VersionId=Fax_AnOcOo3F_VRpu4cFtCX_MJ7xw0xS&itok=kAue7yXY"
+        "reach": 66.0
     },
     {
         "id": 150,
@@ -226,8 +204,7 @@
         "rank": 6,
         "age": 35,
         "height": 64.0,
-        "reach": 68.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-06/ARAUJO_VIVIANE_L_05-15.png?VersionId=null&itok=4W9qlukR"
+        "reach": 68.0
     },
     {
         "id": 151,
@@ -236,8 +213,7 @@
         "rank": 7,
         "age": 32,
         "height": 67.0,
-        "reach": 65.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-06/71739%252Fprofile-galery%252Ffullbodyleft-picture%252FFIOROT_MANON_L_06-05.png?VersionId=null&itok=plHyzQtk"
+        "reach": 65.0
     },
     {
         "id": 152,
@@ -246,8 +222,7 @@
         "rank": 8,
         "age": 33,
         "height": 64.0,
-        "reach": 64.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/68222%252Fprofile-galery%252Ffullbodyleft-picture%252FMAIA_JENNIFER_L_07-10.png?itok=sxMh3W0b"
+        "reach": 64.0
     },
     {
         "id": 153,
@@ -256,58 +231,52 @@
         "rank": 9,
         "age": 33,
         "height": 66.0,
-        "reach": 69.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-05/69617%252Fprofile-galery%252Ffullbodyleft-picture%252FLEE_ANDREA_L_05-15.png?VersionId=null&itok=2AEe7a5K"
+        "reach": 69.5
     },
     {
         "id": 154,
-        "name": "Maycee Barber",
+        "name": "Casey O'Neill",
         "weightClass": "Flyweight",
         "rank": 10,
         "age": 24,
-        "height": 65.0,
-        "reach": 65.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/4aa54ee5-e1f0-4915-98a6-7ecc571c1b7c%252FBARBER_MAYCEE_L_07-02.png?itok=1hOIFacz"
+        "height": 66.0,
+        "reach": 69.0
     },
     {
         "id": 155,
-        "name": "Casey O'Neill",
+        "name": "Maycee Barber",
         "weightClass": "Flyweight",
         "rank": 11,
         "age": 24,
-        "height": 66.0,
-        "reach": 69.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-06/71718%252Fprofile-galery%252Ffullbodyleft-picture%252FONEILL_CASEY_L_06-19.png?VersionId=null&itok=7ocyMu5k"
+        "height": 65.0,
+        "reach": 65.0
     },
     {
         "id": 156,
-        "name": "Cynthia Calvillo",
+        "name": "Erin Blanchfield",
         "weightClass": "Flyweight",
         "rank": 12,
-        "age": 35,
+        "age": 23,
         "height": 64.0,
-        "reach": 64.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-11/CALVILLO_CYNTHIA_L_09-25.png?itok=xi4jMSHp"
+        "reach": 66.0
     },
     {
         "id": 157,
-        "name": "Erin Blanchfield",
+        "name": "Tracy Cortez",
         "weightClass": "Flyweight",
         "rank": 13,
-        "age": 23,
-        "height": 64.0,
-        "reach": 66.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-09/71755%252Fprofile-galery%252Ffullbodyleft-picture%252FBLANCHFIELD_ERIN_L_04-10.png?itok=gBHffbvZ"
+        "age": 28,
+        "height": 65.0,
+        "reach": 65.5
     },
     {
         "id": 158,
-        "name": "Tracy Cortez",
+        "name": "Cynthia Calvillo",
         "weightClass": "Flyweight",
         "rank": 14,
-        "age": 28,
-        "height": 65.0,
-        "reach": 65.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-05/bc4fa7a0-48a8-4e41-a781-7017b65b8695%252FCORTEZ_TRACY_L_05-07.png?itok=iIMSCAYH"
+        "age": 35,
+        "height": 64.0,
+        "reach": 64.0
     },
     {
         "id": 159,
@@ -316,8 +285,7 @@
         "rank": 15,
         "age": 32,
         "height": 64.0,
-        "reach": 62.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/MCCANN_MOLLY_L_07-23.png?itok=xRDxL_nO"
+        "reach": 62.0
     },
     {
         "id": 160,
@@ -326,8 +294,7 @@
         "rank": 0,
         "age": 34,
         "height": 68.0,
-        "reach": 69.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-12/0bc89f79-fead-4048-98a4-daa3e10d1d04%252FNUNES_AMANDA_L_BELT_12-11.png?itok=n_Qiatj-"
+        "reach": 69.0
     },
     {
         "id": 161,
@@ -336,8 +303,7 @@
         "rank": 1,
         "age": 32,
         "height": 66.0,
-        "reach": 69.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/PENA_JULIANNA_L_BELT_07-30.png?itok=_ZSPGOQW"
+        "reach": 69.0
     },
     {
         "id": 162,
@@ -346,8 +312,7 @@
         "rank": 2,
         "age": 30,
         "height": 68.0,
-        "reach": 68.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-11/68489%252Fprofile-galery%252Ffullbodyleft-picture%252FVIEIRA_KETLEN_L_11-20.png?itok=uZmfVJTf"
+        "reach": 68.0
     },
     {
         "id": 163,
@@ -356,8 +321,7 @@
         "rank": 3,
         "age": 40,
         "height": 68.0,
-        "reach": 69.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-05/eb047275-366a-4dc9-9996-2e019a719775%252FHOLM_HOLLY_L_05-21.png?itok=EoChOkYK"
+        "reach": 69.0
     },
     {
         "id": 164,
@@ -366,8 +330,7 @@
         "rank": 4,
         "age": 33,
         "height": 69.0,
-        "reach": 68.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/68120%252Fprofile-galery%252Ffullbodyleft-picture%252FALDANA_IRENE_L_07-10.png?itok=yVzAeMB6"
+        "reach": 68.5
     },
     {
         "id": 165,
@@ -376,8 +339,7 @@
         "rank": 5,
         "age": 33,
         "height": 67.0,
-        "reach": 67.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-11/PENNINGTON_RAQUEL_L_09-18.png?itok=035fsF-h"
+        "reach": 67.5
     },
     {
         "id": 166,
@@ -386,8 +348,7 @@
         "rank": 6,
         "age": 32,
         "height": 66.0,
-        "reach": 68.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/KUNITSKAYA_YANA_L_07-10.png?itok=kvBLp0qZ"
+        "reach": 68.5
     },
     {
         "id": 167,
@@ -396,8 +357,7 @@
         "rank": 7,
         "age": 27,
         "height": 66.0,
-        "reach": 66.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/67418%252Fprofile-galery%252Ffullbodyleft-picture%252FLADD_ASPEN_L_07-24.png?itok=GggkwXc2"
+        "reach": 66.0
     },
     {
         "id": 168,
@@ -406,8 +366,7 @@
         "rank": 8,
         "age": 41,
         "height": 66.0,
-        "reach": 66.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/MCMANN_SARA_L_03-26.png?itok=e4xYlpkV"
+        "reach": 66.0
     },
     {
         "id": 169,
@@ -416,8 +375,7 @@
         "rank": 9,
         "age": 30,
         "height": 67.0,
-        "reach": 68.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-06/68970%252Fprofile-galery%252Ffullbodyleft-picture%252FKIANZAD_PANNIE_L_06-12.png?VersionId=null&itok=EGDHwo3x"
+        "reach": 68.0
     },
     {
         "id": 170,
@@ -426,8 +384,7 @@
         "rank": 10,
         "age": 30,
         "height": 71.0,
-        "reach": 72.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/71431%252Fprofile-galery%252Ffullbodyleft-picture%252FCHIASSON_MACY_L_07-24.png?itok=66bvrHjS"
+        "reach": 72.0
     },
     {
         "id": 171,
@@ -436,8 +393,7 @@
         "rank": 11,
         "age": 35,
         "height": 66.0,
-        "reach": 65.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/TATE_MIESHA_L_07-17.png?itok=l3ajmGkB"
+        "reach": 65.0
     },
     {
         "id": 172,
@@ -446,18 +402,16 @@
         "rank": 12,
         "age": 27,
         "height": 65.0,
-        "reach": 67.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-10/68454%252Fprofile-galery%252Ffullbodyleft-picture%252FROSA_KAROL_L_10-02.png?itok=D8BnZuS9"
+        "reach": 67.5
     },
     {
         "id": 173,
         "name": "Lina Lansberg",
         "weightClass": "Bantamweight",
-        "rank": 13,
+        "rank": 12,
         "age": 40,
         "height": 67.0,
-        "reach": 65.5,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-04/LANSBERG_LINA_L_04-16.png?itok=S0Xar2Bg"
+        "reach": 65.5
     },
     {
         "id": 174,
@@ -466,8 +420,7 @@
         "rank": 14,
         "age": 33,
         "height": 67.0,
-        "reach": 68.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-06/68397%252Fprofile-galery%252Ffullbodyleft-picture%252FAVILA_JULIA_L_06-26.png?itok=mith1taf"
+        "reach": 68.0
     },
     {
         "id": 175,
@@ -476,7 +429,6 @@
         "rank": 15,
         "age": 31,
         "height": 67.0,
-        "reach": 67.0,
-        "image": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-04/71458%252Fprofile-galery%252Ffullbodyleft-picture%252FDUMONT_NORMA_L_04-10.png?VersionId=null&itok=oBj-C_XG"
+        "reach": 67.0
     }
 ]
