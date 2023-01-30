@@ -27,7 +27,7 @@ def process_weight_class(weight_class):
     get_champion = weight_class.find('span')
     champion_exists = True
 
-    if get_champion is None:
+    if get_champion.text == "NR":
         champion_exists = False
         #print("Vacant Champion!")
     
