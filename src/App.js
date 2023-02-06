@@ -210,13 +210,11 @@ function App() {
     setName(event.target.value);
     if (event.target.value.trim() !== '') {
       let filteredFighters = allFighters.filter(fighter => fighter.name.trim().toLowerCase().indexOf(event.target.value.trim().toLowerCase()) !== -1);
-      if (filteredFighters.length > 5) {
-        filteredFighters = filteredFighters.sort(function (a, b) {
-          let term1 = a.name.trim().toLowerCase().indexOf(event.target.value.trim().toLowerCase());
-          let term2 = b.name.trim().toLowerCase().indexOf(event.target.value.trim().toLowerCase());
-          return term1 - term2;
-        }).splice(0, 5);
-      }
+      filteredFighters = filteredFighters.sort(function (a, b) {
+        let term1 = a.name.trim().toLowerCase().indexOf(event.target.value.trim().toLowerCase());
+        let term2 = b.name.trim().toLowerCase().indexOf(event.target.value.trim().toLowerCase());
+        return term1 - term2;
+      }).splice(0, 5);
       setDisplayedFighters(filteredFighters);
     }
     else {
@@ -234,7 +232,7 @@ function App() {
     randomFighter = allFighters[Math.floor(Math.random() * allFighters.length)];
   }
 
-  
+
   if (found || guessesNumber === 5) {
     return (
       <>
