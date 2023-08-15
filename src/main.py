@@ -20,48 +20,43 @@ scraped_data_womens = []
 
 
 def process_weight_class(weight_class):
-    fighters_list = list(weight_class.find_all(class_='views-row'))
+    #print(weight_class)
+    #print(weight_class.find(class_="rankings--athlete--champion").find("h5").text)
+
+    #print((weight_class.find_all(class_='views-field-title')))
+
+    fighters_list = list(weight_class.find_all(class_='views-field-title'))
+    #print(fighters_list)
+    #print(fighters_list)
     rankings = list(weight_class.find_all(class_='views-field-weight-class-rank'))
 
     all_fighters = []
-    get_champion = weight_class.find('span')
+    get_champion = weight_class.find(class_="rankings--athlete--champion").find("h5")
     champion_exists = True
 
-    if get_champion.text == "NR":
+    if get_champion == None:
         champion_exists = False
         #print("Vacant Champion!")
     
     if champion_exists:
         champion = {
-            "fighter": fighters_list[0].get_text(),
-            "link": fighters_list[0].find('a')['href'],
+            "fighter": get_champion.get_text(),
+            "link": get_champion.find('a')['href'],
             "rank": 0
         }
         all_fighters.append(champion)
 
-    if champion_exists:
-        i = 1
-        while i < len(fighters_list):
-            link = fighters_list[i].find('a')
-            fighter_object = {
-                "fighter": fighters_list[i].get_text(),
-                "link": link['href'],
-                "rank": int(rankings[i - 1].get_text())
-            }
-            all_fighters.append(fighter_object)
-            i = i + 1
-    else:
-        i = 0
-        while i < len(fighters_list):
-            link = fighters_list[i].find('a')
+    i = 0
+    while i < len(fighters_list):
+        link = fighters_list[i].find('a')
 
-            fighter_object = {
-                "fighter": fighters_list[i].get_text(),
-                "link": link['href'],
-                "rank": int(rankings[i].get_text())
-            }
-            all_fighters.append(fighter_object)
-            i = i + 1
+        fighter_object = {
+            "fighter": fighters_list[i].get_text(),
+            "link": link['href'],
+            "rank": int(rankings[i].get_text())
+        }
+        all_fighters.append(fighter_object)
+        i = i + 1
 
     weight_class_object = {
         "weightClass": weight_class.find(class_='view-grouping-header').get_text(),
